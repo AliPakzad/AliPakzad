@@ -30,7 +30,7 @@ I specialize in building end-to-end Deep Learning and Machine Learning pipelines
 ### 🚀 Live ML Web Applications
 Click the links below to interact with the models I have deployed:
 *   💰 **[Developer Salary Predictor](https://alipakzad-salary-prediction-app.streamlit.app/)**: Predicts tech salaries based on Stack Overflow 2022 data using CatBoost and SHAP.
-*   🏢 **[Telco Customer Churn Predictor](https://alipakzad-telecom-customer-churn.streamlit.app/)**: Predicts churn risk using a Stacking Ensemble model with real-time threshold tuning.
+*   🏢 **[Telco Customer Churn Predictor](https://alipakzad-telecom-customer-churn-prediction.streamlit.app/)**: Predicts churn risk using a Stacking Ensemble model with real-time threshold tuning.
 *   🏠 **[Tehran House Price Predictor](https://alipakzad-tehran-house-price-prediction.streamlit.app/)**: Estimates real estate prices using spatial target encoding and XGBoost.
 
 *Note: Streamlit apps may go to sleep due to inactivity. If an app is asleep, simply click the "Yes, get this app back up!" button to wake it instantly.*
